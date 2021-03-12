@@ -1,2 +1,2 @@
 # CodingCipher
-This project is completed and compiled bt Atrimay Saha on 12.03.2021
+This project is completed and compiled by Atrimay Saha on 12.03.2021
